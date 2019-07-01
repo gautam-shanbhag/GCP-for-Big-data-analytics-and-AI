@@ -1,2 +1,4 @@
 # Cloud-Technologies
 The main objective is to explore and try out various cloud tools and technologies for Big data analytics and AI. We have planned to use GCP because of its various benefits when compared to other cloud platforms. It provides access to the numerous tools like Stackdriver Monitoring, ML engine, Stackdriver Logging, Security scanner service, to help us to focus on building application. Google used its annual Cloud conference to shine a spotlight on its AI tools. At the core of all new tools and services, the company’s plan is to democratize AI and machine learning with pre-built models, and easier to use services, while also giving more advanced developers the tools to build their own custom models. We have compared Google AutoML with traditional methods normally adopted by Data Scientists in developing Machine Learning models.
+
+<b>Video Presentation Link : </b> https://youtu.be/9Bcrr9Ez15E
